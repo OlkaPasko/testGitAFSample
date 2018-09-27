@@ -24,6 +24,7 @@ class ViewController: UIViewController {
                 if let JSON = response.result.value as? [String: Any] {
                     print("JSON: \(JSON)")
                     print("Headers = \(JSON["headers"] as! [String: Any])")
+                    print("Headers = \(JSON["headers"] as! [String: Any])")
                 }
         }
     }
