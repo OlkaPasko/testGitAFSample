@@ -5,6 +5,7 @@
 //  Created by Olha Pasko on 9/21/18.
 //  Copyright © 2018 Olha Pasko. All rights reserved.
 //
+// changed local version and commited by terminal
 
 import UIKit
 import Alamofire
